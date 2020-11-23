@@ -1,2 +1,2 @@
 # bezOS
-genius
+A pathway to the future
